@@ -1,2 +1,2 @@
 # cousera-test
-Causer test repository
+Cousera test repository
